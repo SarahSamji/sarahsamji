@@ -9,9 +9,11 @@
 <a href="https://github.com/sarahsamji">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarahsamji&theme=material-palenight" />
 </a><br>
+
 <a href="https://github.com/sarahsamji">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahsamji&show_icons=true&theme=material-palenight" />
 </a><br>
+
 <a href="https://github.com/sarahsamji">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahsamji&layout=compact&theme=material-palenight" />
 </a><br>
