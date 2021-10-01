@@ -6,6 +6,15 @@
 <img alt="LinkedIn" src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white"/> 
 <img alt="LinkedIn" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/> 
 
+<a href="https://github.com/sarahsamji">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarahsamji&theme=material-palenight" />
+</a><br>
+<a href="https://github.com/sarahsamji">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahsamji&show_icons=true&theme=material-palenight" />
+</a><br>
+<a href="https://github.com/sarahsamji">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahsamji&layout=compact&theme=material-palenight" />
+</a><br>
 
 <!--
 **SarahSamji/sarahsamji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
