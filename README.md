@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My Name is Sarah Samji. 
 
 <a href="https://www.linkedin.com/in/sarahsamji/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
 <img alt="LinkedIn" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> 
